@@ -1,0 +1,19 @@
+body{
+    color: rgb(74, 52, 170);
+}
+
+a{color:rgb(161, 46, 165);}
+
+.scream {color:rgb(255, 153, 0)}
+
+.wrapper{max-width: 920px;
+margin: 0 auto;}
+
+img{width: 100%;}
+
+.textBigGreen{
+    text-transform: uppercase;
+    color:green;
+}
+
+p{text-align: right;}
